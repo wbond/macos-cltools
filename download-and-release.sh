@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Dowload file
-curl -O https://swcdn.apple.com/content/downloads/14/48/052-59890-A_I0F5YGAY0Y/p9n40hio7892gou31o1v031ng6fnm9sb3c/CLTools_macOSNMOS_SDK.pkg
+curl -O https://swcdn.apple.com/content/downloads/36/33/072-44426-A_G1AII30AST/ddbss9h6gse6a32rg6luosbrm6vgniu033/CLTools_macOSNMOS_SDK.pkg
 
 # Unpack file
 pkgutil --expand-full CLTools_macOSNMOS_SDK.pkg extracted
